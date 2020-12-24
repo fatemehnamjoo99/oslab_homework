@@ -1,6 +1,6 @@
 # oslab_homework_OS8
-in the name of God
-homeworks OS8-namjoo
+  in the name of God
+
 1. for config git:
  git config --global user.email "fatemehnamjoo98@gmail.com"
 git config --global user.name "fatemenamjoo"
