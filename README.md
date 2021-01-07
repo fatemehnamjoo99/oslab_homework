@@ -1,2 +1,2 @@
-# oslab_homework_OS9
-OS9-namjoo
+# oslab_homework_OS10
+OS10-namjoo
